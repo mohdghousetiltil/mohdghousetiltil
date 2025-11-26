@@ -1,89 +1,129 @@
-# 👋 Hi, I'm Mohammed Ghouse Tiltil
+<!-- ======================= PREMIUM GITHUB PROFILE ======================= -->
+<h1 align="center"><strong>Mohammed Ghouse Tiltil</strong></h1>
+<p align="center"><strong>Data Engineer • Machine Learning Engineer • Cloud & Automation Specialist</strong></p>
+<p align="center">Designing automation-driven, cloud-native data systems that reduce manual effort and unlock better decisions.</p>
 
-**Data Engineer | Machine Learning Engineer | Data Scientist**
-
-Melbourne, VIC | [LinkedIn](https://www.linkedin.com/in/mohammed-ghouse-tiltil/) | [Email](mailto:mohammedghouse0601@gmail.com)
-
-I'm a recent **Master of Data Science** graduate from **RMIT University**, passionate about building robust data and AI solutions that drive innovation and create tangible impact. My expertise lies in designing and implementing end-to-end data pipelines, from data acquisition and wrangling to machine learning model deployment and visualization.
-
-I thrive on solving complex business challenges with data, leveraging a strong foundation in **Python, SQL, and Cloud platforms (Azure & AWS)**.
-
----
-
-## 🛠️ Technical Skills
-
-*   **Programming:** Python (Pandas, NumPy, Scikit-Learn), R, SQL
-*   **Cloud & Big Data:** Microsoft Azure (Fabric, Data Factory), AWS (EC2, S3, Lambda, DynamoDB), Apache Hadoop, Apache Pig
-*   **Databases:** Microsoft SQL Server, MySQL, DynamoDB
-*   **Data Visualization & BI:** Power BI, Tableau, R Shiny, Excel
-*   **Tools & Methods:** ETL/ELT, Data Wrangling, REST API Integration, Git, Jira, Statistical Analysis, Predictive Modelling, NLP
+<p align="center">
+  <a href="mailto:mohammedghouse0601@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-ghouse-tiltil/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/mohdghousetiltil"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+</p>
 
 ---
 
-## 💼 Featured Projects
+# 📌 How My Work Creates Impact
+My work focuses on building **real-world, production-grade automation and data systems** that:
 
-Here's a selection of my work that showcases my skills.
+- Replace manual, repetitive workflows with reliable automation  
+- Scale cleanly across cloud environments (AWS, Azure)  
+- Extract structure and insight from messy data (OCR, NLP, ML)  
+- Integrate naturally into existing business processes  
 
-### [🔗 Social Sentiment Analysis from Social Media]()
-*   Acquired large-scale, unstructured data from Reddit and YouTube APIs, implementing rigorous preprocessing and cleaning techniques.
-*   Applied DNN-based topic modelling (LDA) and clustering to uncover patterns and public sentiment trends.
-*   Created clear visualizations to effectively communicate findings, demonstrating strong data storytelling skills.
-*   `Python` `Pandas` `NLP` `LDA` `API Integration` `Data Visualization`
+In practice, that means taking operations that are slow, manual, and inconsistent and turning them into:
 
-### [🔗 Renewable Energy Forecasting Web App]()
-*   Developed a locally hosted web application to predict wind and solar energy generation using 10 years of historical data.
-*   Engineered features and applied ML models (Random Forests, SVM) to improve prediction accuracy.
-*   Highlighted ability to work with quantitative data and a consideration for sustainable solutions.
-*   `Python` `Machine Learning` `Predictive Modeling` `Feature Engineering` `Flask/Django`
+### → Fast, observable, and **largely self-running pipelines**.
 
-### [🔗 AWS Cloud-Based Music Subscription Platform]()
-*   Designed and built a cloud-based infrastructure using AWS (EC2, S3, DynamoDB).
-*   Implemented backend functionalities for user registration and dynamic querying, showcasing proficient SQL and data handling.
-*   Focused on secure data handling practices and reliable data storage/retrieval.
-*   `AWS` `Cloud Architecture` `DynamoDB` `Python` `API`
-
-### [🔗 Olympics Medal Analytics with Apache Pig]()
-*   Processed and analyzed large historical Olympics datasets using Apache Pig on a Hadoop cluster.
-*   Derived insights into medal trends by country, sport, and year.
-*   `Big Data` `Apache Pig` `Hadoop` `Data Analysis`
-
-### [🔗 Taxi Trip Analysis with Apache Hadoop]()
-*   Analyzed millions of taxi trip records to identify patterns in fare, tip, and travel time.
-*   Demonstrated ability to handle big data and perform distributed computing analysis.
-*   `Big Data` `Apache Hadoop` `HDFS` `MapReduce`
-
-### [🔗 Logistics Customer Service Automation]()
-*   (Add a brief one-liner, e.g., "Designed an automated pipeline to streamline customer service operations...")
-*   `Python` `Automation` `Power BI` `Data Pipeline`
-
-### [🔗 EV Reference Generation Research]()
-*   (Add a brief one-liner describing this project, e.g., "A research project focusing on...")
-*   `Research` `Data Analysis` `Matlab`
 ---
 
-## 📈 GitHub Stats & Activity
+# 🚀 What I Focus On
+### 🏗️ Scalable Systems & Cloud Architecture  
+Cloud-native pipelines, serverless microservices, distributed compute on AWS & Azure.
+
+### 🔄 Automation of Operational Workflows  
+Email → cloud ingestion, spreadsheet and document processing, workflow orchestration.
+
+### 🤖 Machine Learning & Document Intelligence  
+Classification engines, semantic search, NLP pipelines, OCR-based data extraction.
+
+### 🧱 Data Engineering & Big Data  
+ETL/ELT pipelines, Hadoop ecosystem, high-volume batch processing.
+
+---
+
+# 🧠 Technical Expertise (Snapshot)
+| Category        | Skills |
+|----------------|--------|
+| Programming    | Python (Pandas, NumPy, Scikit-learn), R, SQL |
+| Databases | Microsoft SQL Server, MySQL, DynamoDB |
+| Data Engineering | ETL/ELT, Data Modeling, Data Profiling, Data Modelling, REST API Integration |
+| Cloud Technologies         | AWS (Lambda, S3, EC2, DynamoDB), Azure (Fabric, Data Factory) |
+| Big Data       | Hadoop, EMR, Pig, MapReduce |
+| Machine Learning | Predictive Modelling, Statistical Analysis, Feature Engineering, Model Validation, NLP |
+| Analytics      | Power BI, Tableau, R Shiny, Excel |
+| Tools          | Power Automate, Git, Jira, Docker (basics), CI/CD Concepts |
 
 
 ---
 
-## 📜 Certifications
+# 💼 Flagship Projects (High-Impact Systems)
+These projects highlight an **automation-first, systems-thinking approach** to solving real problems.
 
-*   **AWS Certified Cloud Practitioner** (CLF-C02) - *In Progress*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/mohdghousetiltil/logistics-automation-platform">Logistics Automation Platform</a>
+Enterprise workflow that processes booking spreadsheets from email → validates → updates master data automatically.  
+<strong>Impact:</strong> Saves 1–2 hours of manual work per day and reduces operational bottlenecks.
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/mohdghousetiltil/scanned-pdf-to-xlsx-tool">Scanned PDF → Excel Extraction Engine</a>
+OCR + JSON-mapped extraction pipeline converting 100+ page PDFs into structured Excel.  
+<strong>Impact:</strong> Compresses a week of manual data entry into under 20 minutes with high accuracy.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/mohdghousetiltil/Cloud-native-music-streaming-platform">AWS Serverless Music Platform</a>
+User auth, catalog search, subscriptions, and media delivery built using AWS serverless components.  
+<strong>Impact:</strong> Demonstrates a scalable, low-maintenance cloud architecture suitable for real-world workloads.
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/mohdghousetiltil/bigdata-taxi-analytics-hadoop">Taxi Big Data Analytics (Hadoop)</a>
+Distributed MapReduce engine for analysing large taxi datasets (trips, revenue, locations).  
+<strong>Impact:</strong> Enables data-backed planning for pricing, fleet allocation, and transport operations.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/mohdghousetiltil/Intelligent-Recruitment-Platform-Powered-by-Flask-Machine-Learning">Intelligent Job Search & Classification Portal</a>
+Flask + NLP platform performing semantic search and automatic job categorisation.  
+<strong>Impact:</strong> Improves candidate–job matching and reduces manual triage for recruiters.
+
+</td>
+<td></td>
+</tr>
+</table>
 
 ---
 
-## 🎓 Education
+# 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohdghousetiltil&show_icons=true&theme=react" height="170" />
+</p>
 
-*   **Master of Data Science** | RMIT University, Melbourne *(July 2023 - July 2025)*
-*   **Bachelor of Science (HONORS) – ICT** | University of Rome Tor Vergata, Italy *(Oct 2018 - Feb 2023)*
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohdghousetiltil&layout=compact&theme=react" height="140" />
+</p>
+
+---
+
+# 🎓 Education
+- Master of Data Science — RMIT University (2023–2025)  
+- BSc (Hons) ICT — University of Rome Tor Vergata (2018–2023)
 
 ---
 
-## 📫 Let's Connect!
-
-I'm always open to discussing data engineering, machine learning, and new opportunities.
-*   **Email:** [mohammedghouse0601@gmail.com](mailto:mohammedghouse0601@gmail.com)
-*   **LinkedIn:** [https://www.linkedin.com/in/mohammed-ghouse-tiltil/](https://www.linkedin.com/in/mohammed-ghouse-tiltil/)
-
----
-*This README is a living document. Last updated: [18/10/2025].*
+# 🤝 Connect
+📧 **mohammedghouse0601@gmail.com**  
+🔗 **linkedin.com/in/mohammed-ghouse-tiltil**
